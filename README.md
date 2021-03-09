@@ -1,4 +1,5 @@
-# Welcome to UAI, QUE SEDE! The trybeer challenge of Trybe Programing School
+# Welcome to UAI, QUE SEDE!
+The Trybeer challenge of Trybe Programing School
 
 originally submitted @ https://github.com/tryber/sd-05-project-trybeer-v2/
 
